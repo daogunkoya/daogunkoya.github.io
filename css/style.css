@@ -163,7 +163,7 @@ color:#000000;
 /* About ----------------------------- */
 section#about{
  /*background: url(../images/bgcolor/pic02.jpg) repeat;------ */
- background-color: #4e80eb;
+ background-color: #3B9AE1;
  background-size:cover;
  background-attachment:fixed;
  color:#ffffff;
@@ -210,8 +210,8 @@ padding:20px;
 
 /* SILLS ----------------------------- */
 section#skills{
-background:#602040;
-color:#ffffff;
+background:#1C3879;
+color:#EDDFB3;
 }
 
 section#skills p{
@@ -233,8 +233,8 @@ padding:15px;
 
 /* Education ----------------------------- */
 section#education{
-	background:#d9d9d9;
-	color:#000000;
+	background:#CBA0AE;
+	color:#2C3333;
 }
 
 section#education .block{
